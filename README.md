@@ -58,8 +58,8 @@ python -m venv venv
 .\venv\Scripts\activate
 # On Mac/Linux:
 source venv/bin/activate
-
-pip install -r requirement.txt
+<br/>
+pip install -r requirement.txt <br/>
 python app.py
 
 ### Fronted Setup
