@@ -2,3 +2,5 @@ flask
 openai-whisper
 torch
 transformers 
+flask-cors
+gunicorn
