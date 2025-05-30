@@ -14,7 +14,7 @@ A smart web app that takes in meeting audio/video recordings and outputs a conci
 meeting-summarizer/ <br/>
 ├── backend/ # Flask backend (transcription & summary) <br/>
 ├── Frontend/meeting-summarizer/ # React frontend (user interface) <br/>
-├── .gitignore < br/>
+├── .gitignore <br/>
 ├── README.md <br/>
 
 
