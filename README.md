@@ -67,4 +67,4 @@ python app.py
 cd Frontend/meeting-summarizer<br/>
 npm install<br/>
 npm run dev<br/>
-[Link Text]([https://example.com](https://darling-moxie-2b799f.netlify.app/))
+[Link Text]([https://darling-moxie-2b799f.netlify.app/])
