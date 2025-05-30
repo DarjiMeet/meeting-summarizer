@@ -11,11 +11,11 @@ A smart web app that takes in meeting audio/video recordings and outputs a conci
 ---
 
 ##  Project Structure
-meeting-summarizer/
-├── backend/ # Flask backend (transcription & summary)
-├── Frontend/meeting-summarizer/ # React frontend (user interface)
-├── .gitignore
-├── README.md
+meeting-summarizer/ <br/>
+├── backend/ # Flask backend (transcription & summary) <br/>
+├── Frontend/meeting-summarizer/ # React frontend (user interface) <br/>
+├── .gitignore < br/>
+├── README.md <br/>
 
 
 ---
