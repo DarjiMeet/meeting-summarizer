@@ -54,16 +54,17 @@ meeting-summarizer/ <br/>
 
 cd backend
 python -m venv venv
-# On Windows:
+<br/>
+#### On Windows:
 .\venv\Scripts\activate
-# On Mac/Linux:
+#### On Mac/Linux:
 source venv/bin/activate
 <br/>
 pip install -r requirement.txt <br/>
 python app.py
 
 ### Fronted Setup
-cd Frontend/meeting-summarizer
-npm install
-npm run dev
+cd Frontend/meeting-summarizer<br/>
+npm install<br/>
+npm run dev<br/>
 
