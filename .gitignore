@@ -1,0 +1,17 @@
+.venv/
+
+# Node modules (React frontend)
+frontend/meeting-summarizer/node_modules/
+frontend/meeting-summarizer/.env
+
+# Flask backend
+backend/__pycache__/
+backend/*.pyc
+backend/.env
+backend/uploads/
+backend/venv/
+
+# System / IDE files
+.DS_Store
+.vscode/
+*.log
